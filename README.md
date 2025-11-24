@@ -2,31 +2,53 @@
 Power BI Analysis of LEED-certified building sustainability performance
 
 📌 Project Overview
-This project analyzes LEED v4 certification scorecards from four buildings located in Germany and the United States.
-Using Power BI, the dataset was cleaned, modeled, and visualized to evaluate sustainability performance across major LEED categories with a focus on:
-Energy & Atmosphere (EA)
-Materials & Resources (MR)
-Water Efficiency (WE)
-Location & Transportation (LT)
-The dashboard enables comparison of certification outcomes, category-level performance, and regional differences in sustainability strategies.
+This project evaluates how LEED-certified buildings perform in key sustainability categories, focusing on Energy & Atmosphere (EA) and Materials & Resources (MR).
+A dataset of four LEED v4 buildings (three in Germany, one in the U.S.) is analyzed using Excel and Power BI to identify trends, gaps, and regional differences.
 
 📊 Dashboard Overview
 This Power BI dashboard visualizes LEED v4 scoring across regions, categories, and certification levels.  
-It highlights energy performance, material transparency, CO₂ reduction potential, and areas with improvement opportunities.
+Power BI dashboard includes:
+KPI cards (LEED %, CO₂ reduction, Energy Gap)
+Regional comparison (Germany vs U.S.)
+Scatter plot (EA vs Certification Level)
+Circularity bar chart
+Detailed scorecard table
 
 <img width="631" height="353" alt="image" src="https://github.com/user-attachments/assets/aa8df679-6fb2-4543-8b1a-70bf60e2637a" />
 
+📌 Objectives
+Analyze EA and MR credit performance across multiple LEED projects
+Identify strong credits (e.g., Optimize Energy Performance) and underused ones (e.g., Advanced Metering, Lifecycle Analysis)
+Compare regional differences (Germany vs U.S.)
+Visualize results through interactive Power BI dashboards
+Provide insights for bridging the design–performance gap
 
-📊 Key Highlights
-Highest scoring credit: Optimize Energy Performance (avg ~15.5/18)
-Advanced Metering not achieved by any project → notable operational performance gap
-German projects showed stronger performance in MR and Waste Management credits
-Measurable positive correlation between EA scoring and certification level
+📊 Data & Tools
 
-🧰 Tech Stack & Skills
-Power BI (data modeling, DAX, visualization)
-Excel (data cleanup and structure)
-Sustainability Analytics (LEED v4 framework)
+Data Source:
+Public LEED v4 scorecards from USGBC (Core & Shell and New Construction)
+Tools Used:
+Microsoft Excel (data cleaning)
+Power BI (visualization)
+LEED v4 credit structure
+Benchmarking with DIN V 18599 & ISO 50001
+
+
+🔍 Key Findings
+Optimize Energy Performance scores highest across all buildings (avg. 15.5/18).
+Advanced Energy Metering = 0 points in all projects → major performance gap.
+Germany performs better in MR and Water Efficiency.
+U.S. project shows strong EA due to incentive-driven design.
+Lifecycle & material transparency credits are underused.
+EA scores correlate strongly with certification level.
+
+📚 References
+Includes studies from:
+USGBC
+International Energy Agency (IEA)
+Scofield (2013)
+Newsham et al. (2009)
+GSA POE studies
 
 
 👤 Author
