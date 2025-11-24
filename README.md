@@ -16,6 +16,7 @@ It highlights energy performance, material transparency, CO₂ reduction potenti
 
 <img width="631" height="353" alt="image" src="https://github.com/user-attachments/assets/aa8df679-6fb2-4543-8b1a-70bf60e2637a" />
 
+
 📊 Key Highlights
 Highest scoring credit: Optimize Energy Performance (avg ~15.5/18)
 Advanced Metering not achieved by any project → notable operational performance gap
