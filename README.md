@@ -10,6 +10,12 @@ Water Efficiency (WE)
 Location & Transportation (LT)
 The dashboard enables comparison of certification outcomes, category-level performance, and regional differences in sustainability strategies.
 
+📊 Dashboard Overview
+This Power BI dashboard visualizes LEED v4 scoring across regions, categories, and certification levels.  
+It highlights energy performance, material transparency, CO₂ reduction potential, and areas with improvement opportunities.
+
+<img width="631" height="353" alt="image" src="https://github.com/user-attachments/assets/aa8df679-6fb2-4543-8b1a-70bf60e2637a" />
+
 📊 Key Highlights
 Highest scoring credit: Optimize Energy Performance (avg ~15.5/18)
 Advanced Metering not achieved by any project → notable operational performance gap
@@ -20,6 +26,7 @@ Measurable positive correlation between EA scoring and certification level
 Power BI (data modeling, DAX, visualization)
 Excel (data cleanup and structure)
 Sustainability Analytics (LEED v4 framework)
+
 
 👤 Author
 Prasad Suryawanshi
