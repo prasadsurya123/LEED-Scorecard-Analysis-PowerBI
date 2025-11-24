@@ -57,10 +57,9 @@ Lifecycle & material transparency credits are underused.
 EA scores correlate strongly with certification level.
 
 
-
 📚 References
-
 Includes studies from:
+
 USGBC
 
 International Energy Agency (IEA)
@@ -70,6 +69,8 @@ Scofield (2013)
 Newsham et al. (2009)
 
 GSA POE studies
+
+
 
 
 👤 Author
