@@ -55,9 +55,13 @@ EA scores correlate strongly with certification level.
 
 Includes studies from:
 USGBC
+
 International Energy Agency (IEA)
+
 Scofield (2013)
+
 Newsham et al. (2009)
+
 GSA POE studies
 
 👤 Author
