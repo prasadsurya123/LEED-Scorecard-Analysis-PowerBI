@@ -44,17 +44,15 @@ Benchmarking with DIN V 18599 & ISO 50001
 
 🔍 Key Findings
 
-Optimize Energy Performance scores highest across all buildings (avg. 15.5/18).
+1. Optimize Energy Performance scores highest across all buildings (avg. 15.5/18).
 
-Advanced Energy Metering = 0 points in all projects → major performance gap.
+2. Germany performs better in MR and Water Efficiency.
 
-Germany performs better in MR and Water Efficiency.
+3. U.S. project shows strong EA due to incentive-driven design.
 
-U.S. project shows strong EA due to incentive-driven design.
+4. Lifecycle & material transparency credits are underused.
 
-Lifecycle & material transparency credits are underused.
-
-EA scores correlate strongly with certification level.
+5. EA scores correlate strongly with certification level.
 
 
 📚 References
