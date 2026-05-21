@@ -44,30 +44,20 @@ Benchmarking with DIN V 18599 & ISO 50001
 
 🔍 Key Findings
 
-1. Optimize Energy Performance scores highest across all buildings (avg. 15.5/18).
-
+1. Optimized Energy Performance scores highest across all buildings (avg. 15.5/18).
 2. Germany performs better in MR and Water Efficiency.
-
 3. U.S. project shows strong EA due to incentive-driven design.
-
 4. Lifecycle & material transparency credits are underused.
-
 5. EA scores correlate strongly with certification level.
 
 
 📚 References
-Includes studies from:
-
-USGBC
-
+Includes studies from:USGBC
 International Energy Agency (IEA)
-
 Scofield (2013)
-
 Newsham et al. (2009)
-
 GSA POE studies
-
+LEED 
 
 
 
