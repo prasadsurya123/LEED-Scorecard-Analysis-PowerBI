@@ -1,0 +1,48 @@
+Project,Country,Level,Category,Credit,Achieved,Possible,Achievement
+Hamburg · Proebenweg,Germany,Gold,Energy & Atmosphere,Enhanced Commissioning,5,6,0.8333333333333334
+Hamburg · Proebenweg,Germany,Gold,Energy & Atmosphere,Advanced Energy Metering,0,1,0.0
+Hamburg · Proebenweg,Germany,Gold,Energy & Atmosphere,Demand Response,1,2,0.5
+Hamburg · Proebenweg,Germany,Gold,Energy & Atmosphere,Renewable Energy Production,0,3,0.0
+Hamburg · Proebenweg,Germany,Gold,Energy & Atmosphere,Enhanced Refrigerant Mgmt,1,1,1.0
+Hamburg · Proebenweg,Germany,Gold,Energy & Atmosphere,Green Power & Carbon Offsets,0,2,0.0
+Hamburg · Proebenweg,Germany,Gold,Energy & Atmosphere,Optimize Energy Performance,12,18,0.6666666666666666
+Hamburg · Proebenweg,Germany,Gold,Materials & Resources,Whole-Building LCA (BLCIR),2,6,0.3333333333333333
+Hamburg · Proebenweg,Germany,Gold,Materials & Resources,EPDs,1,2,0.5
+Hamburg · Proebenweg,Germany,Gold,Materials & Resources,Raw-Material Sourcing,1,2,0.5
+Hamburg · Proebenweg,Germany,Gold,Materials & Resources,Material Ingredients,2,2,1.0
+Hamburg · Proebenweg,Germany,Gold,Materials & Resources,C&D Waste Management,2,2,1.0
+Pineville · Bldg 801,U.S.,Silver,Energy & Atmosphere,Enhanced Commissioning,0,6,0.0
+Pineville · Bldg 801,U.S.,Silver,Energy & Atmosphere,Advanced Energy Metering,0,1,0.0
+Pineville · Bldg 801,U.S.,Silver,Energy & Atmosphere,Demand Response,0,2,0.0
+Pineville · Bldg 801,U.S.,Silver,Energy & Atmosphere,Renewable Energy Production,2,3,0.6666666666666666
+Pineville · Bldg 801,U.S.,Silver,Energy & Atmosphere,Enhanced Refrigerant Mgmt,1,1,1.0
+Pineville · Bldg 801,U.S.,Silver,Energy & Atmosphere,Green Power & Carbon Offsets,0,2,0.0
+Pineville · Bldg 801,U.S.,Silver,Energy & Atmosphere,Optimize Energy Performance,14,18,0.7777777777777778
+Pineville · Bldg 801,U.S.,Silver,Materials & Resources,Whole-Building LCA (BLCIR),0,5,0.0
+Pineville · Bldg 801,U.S.,Silver,Materials & Resources,EPDs,0,2,0.0
+Pineville · Bldg 801,U.S.,Silver,Materials & Resources,Raw-Material Sourcing,0,2,0.0
+Pineville · Bldg 801,U.S.,Silver,Materials & Resources,Material Ingredients,0,2,0.0
+Berlin · sellersiebzehn,Germany,Platinum,Energy & Atmosphere,Enhanced Commissioning,4,6,0.6666666666666666
+Berlin · sellersiebzehn,Germany,Platinum,Energy & Atmosphere,Advanced Energy Metering,0,1,0.0
+Berlin · sellersiebzehn,Germany,Platinum,Energy & Atmosphere,Demand Response,0,2,0.0
+Berlin · sellersiebzehn,Germany,Platinum,Energy & Atmosphere,Renewable Energy Production,3,3,1.0
+Berlin · sellersiebzehn,Germany,Platinum,Energy & Atmosphere,Enhanced Refrigerant Mgmt,0,1,0.0
+Berlin · sellersiebzehn,Germany,Platinum,Energy & Atmosphere,Green Power & Carbon Offsets,0,2,0.0
+Berlin · sellersiebzehn,Germany,Platinum,Energy & Atmosphere,Optimize Energy Performance,18,18,1.0
+Berlin · sellersiebzehn,Germany,Platinum,Materials & Resources,Whole-Building LCA (BLCIR),0,5,0.0
+Berlin · sellersiebzehn,Germany,Platinum,Materials & Resources,EPDs,1,2,0.5
+Berlin · sellersiebzehn,Germany,Platinum,Materials & Resources,Raw-Material Sourcing,0,2,0.0
+Berlin · sellersiebzehn,Germany,Platinum,Materials & Resources,Material Ingredients,2,2,1.0
+Berlin · sellersiebzehn,Germany,Platinum,Materials & Resources,C&D Waste Management,1,2,0.5
+Gräfelfing · LSC,Germany,Platinum,Energy & Atmosphere,Enhanced Commissioning,5,6,0.8333333333333334
+Gräfelfing · LSC,Germany,Platinum,Energy & Atmosphere,Advanced Energy Metering,0,1,0.0
+Gräfelfing · LSC,Germany,Platinum,Energy & Atmosphere,Demand Response,0,2,0.0
+Gräfelfing · LSC,Germany,Platinum,Energy & Atmosphere,Renewable Energy Production,3,3,1.0
+Gräfelfing · LSC,Germany,Platinum,Energy & Atmosphere,Enhanced Refrigerant Mgmt,1,1,1.0
+Gräfelfing · LSC,Germany,Platinum,Energy & Atmosphere,Green Power & Carbon Offsets,2,2,1.0
+Gräfelfing · LSC,Germany,Platinum,Energy & Atmosphere,Optimize Energy Performance,18,18,1.0
+Gräfelfing · LSC,Germany,Platinum,Materials & Resources,Whole-Building LCA (BLCIR),2,6,0.3333333333333333
+Gräfelfing · LSC,Germany,Platinum,Materials & Resources,EPDs,1,2,0.5
+Gräfelfing · LSC,Germany,Platinum,Materials & Resources,Raw-Material Sourcing,1,2,0.5
+Gräfelfing · LSC,Germany,Platinum,Materials & Resources,Material Ingredients,2,2,1.0
+Gräfelfing · LSC,Germany,Platinum,Materials & Resources,C&D Waste Management,2,2,1.0
