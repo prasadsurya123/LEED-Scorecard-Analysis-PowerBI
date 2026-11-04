@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite it as below."
+title: "LEED v4 Scorecard Analysis: Energy & Atmosphere and Materials & Resources credit performance"
+authors:
+  - family-names: Suryawanshi
+    given-names: Prasad
+    affiliation: "Hochschule Ansbach"
+repository-code: "https://github.com/prasadsurya123/LEED-Scorecard-Analysis-PowerBI"
+date-released: 2026-11-04
+keywords:
+  - LEED
+  - green building certification
+  - energy performance
+  - life cycle assessment
+  - Power BI
