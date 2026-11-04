@@ -23,7 +23,7 @@ Detailed scorecard table
 
 📌 Objectives
 
-Analyze EA and MR credit performance across multiple LEED projects
+Analyze Energy & Atmosphere (EA) and Materials & Resources (MR) credit performance across multiple LEED projects
 Identify strong credits (e.g., Optimize Energy Performance) and underused ones (e.g., Advanced Metering, Lifecycle Analysis)
 Compare regional differences (Germany vs U.S.)
 Visualize results through interactive Power BI dashboards
@@ -45,10 +45,10 @@ Benchmarking with DIN V 18599 & ISO 50001
 🔍 Key Findings
 
 1. Optimized Energy Performance scores highest across all buildings (avg. 15.5/18).
-2. Germany performs better in MR and Water Efficiency.
-3. U.S. project shows strong EA due to incentive-driven design.
+2. Germany performs better in Materials & Resources (MR).
+3. U.S. project shows strong Energy & Atmosphere (EA) due to incentive-driven design.
 4. Lifecycle & material transparency credits are underused.
-5. EA scores correlate strongly with certification level.
+5. Energy & Atmosphere (EA) scores correlate strongly with certification level.
 
 
 📚 References
