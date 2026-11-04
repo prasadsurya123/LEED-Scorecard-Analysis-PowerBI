@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EEF6F1"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#E2EAE5" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect x="720" width="560" height="360" fill="url(#grid)" opacity="0.8"/>
+  <rect x="0" y="0" width="8" height="360" fill="#2E8B57"/>
+
+  <!-- Title block -->
+  <text x="64" y="86" font-size="15" font-weight="700" letter-spacing="3" fill="#2E8B57">SUSTAINABLE BUILDING ANALYTICS</text>
+  <text x="64" y="146" font-size="46" font-weight="800" fill="#1F2933">LEED v4 Scorecard Analysis</text>
+  <text x="64" y="192" font-size="21" fill="#4B5866">Where certified buildings earn their energy &amp; materials points —</text>
+  <text x="64" y="220" font-size="21" fill="#4B5866">and where they quietly leave them on the table.</text>
+
+  <!-- Chips -->
+  <g font-size="14" font-weight="600">
+    <rect x="64" y="256" width="122" height="34" rx="17" fill="#FFFFFF" stroke="#CFE0D6"/>
+    <text x="125" y="278" text-anchor="middle" fill="#1F2933">4 projects</text>
+    <rect x="198" y="256" width="168" height="34" rx="17" fill="#FFFFFF" stroke="#CFE0D6"/>
+    <text x="282" y="278" text-anchor="middle" fill="#1F2933">Germany · U.S.</text>
+    <rect x="378" y="256" width="138" height="34" rx="17" fill="#FFFFFF" stroke="#CFE0D6"/>
+    <text x="447" y="278" text-anchor="middle" fill="#1F2933">Power BI</text>
+    <rect x="528" y="256" width="122" height="34" rx="17" fill="#FFFFFF" stroke="#CFE0D6"/>
+    <text x="589" y="278" text-anchor="middle" fill="#1F2933">Python</text>
+  </g>
+
+  <!-- Building illustration with mini credit bars -->
+  <g transform="translate(800,60)">
+    <!-- ground -->
+    <line x1="-20" y1="250" x2="420" y2="250" stroke="#B9CFC2" stroke-width="2"/>
+    <!-- tower -->
+    <rect x="40" y="30" width="150" height="220" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-width="2"/>
+    <g fill="#CFE8D8">
+      <rect x="58" y="50" width="30" height="22"/><rect x="100" y="50" width="30" height="22"/><rect x="142" y="50" width="30" height="22"/>
+      <rect x="58" y="86" width="30" height="22"/><rect x="100" y="86" width="30" height="22" fill="#2E8B57"/><rect x="142" y="86" width="30" height="22"/>
+      <rect x="58" y="122" width="30" height="22" fill="#2E8B57"/><rect x="100" y="122" width="30" height="22"/><rect x="142" y="122" width="30" height="22"/>
+      <rect x="58" y="158" width="30" height="22"/><rect x="100" y="158" width="30" height="22"/><rect x="142" y="158" width="30" height="22" fill="#2E8B57"/>
+    </g>
+    <rect x="98" y="200" width="34" height="50" fill="#1F2933"/>
+    <!-- solar panels on roof -->
+    <g fill="#2F6DB5">
+      <polygon points="52,30 92,30 86,12 46,12"/>
+      <polygon points="98,30 138,30 132,12 92,12"/>
+      <polygon points="144,30 184,30 178,12 138,12"/>
+    </g>
+    <!-- leaf -->
+    <path d="M205 238 C205 200 235 180 270 182 C270 218 245 240 205 238 Z" fill="#2E8B57"/>
+    <path d="M205 238 C225 220 240 205 258 192" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+
+    <!-- credit bars card -->
+    <g transform="translate(250,30)">
+      <rect width="170" height="140" rx="10" fill="#FFFFFF" stroke="#CFE0D6"/>
+      <text x="14" y="24" font-size="11" font-weight="700" fill="#6B7785" letter-spacing="1">CREDIT CAPTURE</text>
+      <g font-size="10.5" fill="#1F2933">
+        <text x="14" y="48">Energy perf.</text><rect x="14" y="53" width="142" height="7" rx="3.5" fill="#EEF2F0"/><rect x="14" y="53" width="122" height="7" rx="3.5" fill="#2E8B57"/>
+        <text x="14" y="78">Whole-bldg LCA</text><rect x="14" y="83" width="142" height="7" rx="3.5" fill="#EEF2F0"/><rect x="14" y="83" width="26" height="7" rx="3.5" fill="#2F6DB5"/>
+        <text x="14" y="108">Adv. metering</text><rect x="14" y="113" width="142" height="7" rx="3.5" fill="#EEF2F0"/><rect x="14" y="113" width="3" height="7" rx="1.5" fill="#D9534F"/>
+      </g>
+    </g>
+  </g>
+</svg>
